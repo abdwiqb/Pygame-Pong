@@ -2,16 +2,6 @@ import random
 import pygame
 import sys
 
-# ----- IDEAS
-# ----- EVENTS
-# - EASY
-# DONE                Multiple balls
-# Size changes
-# Speed changes
-# ----- CHANGES
-# Make AI
-# Sounds
-
 # CONST
 FPS = 60
 EVENT_TICK_RATE = 1
@@ -68,7 +58,7 @@ class Paddle:
 # OBJ
 balls = [Ball(False, False, MAIN_COLOR, ball_spawn_side)]
 paddles = [PLAYER_ONE := Paddle(WIDTH-WIDTH/20), PLAYER_TWO := Paddle(WIDTH/20)]
-#          PLAYER                                AI
+#          PLAYER                                
 
 
 def ball_out(ball):
