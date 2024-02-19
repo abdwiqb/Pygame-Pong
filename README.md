@@ -12,6 +12,3 @@ Used some code from www.youtube.com/watch?v=Qf3-aDXG8q4
 - New balls can be spawned
 - Every time a ball hits it can change the paddles or its own size/speed
 - W/S for OP, UP/DOWN arrow keys for PL
-
-
--- Plan to add a with AI version
