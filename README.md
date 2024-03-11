@@ -1,9 +1,8 @@
 # PYPONG
 
 Pong made with pygame,
-with some extra features
-
-Used some code from www.youtube.com/watch?v=Qf3-aDXG8q4
+with some extra features,
+and a bit buggy
 
 # How to win
 - Get 9 or more points while the opponent is atleast 2 points below you to win
